@@ -81,7 +81,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-    <a align="left" href="https://github.com/SugamKuber/static-html-page" title="basic html page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=static-html-page&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/SugamKuber/static-html-page" title="basic html page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=static-html-page&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/SugamKuber/SOL_DAPP" title="Solana DApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=SOL_DAPP&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
