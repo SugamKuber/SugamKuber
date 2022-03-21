@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi🙋🏻‍♂️, I'm Sugam Kuber, A Computers and Tech Enthusiast South India
+  Hi🙋🏻‍♂️, I'm Sugam Kuber, A Computers and Tech Enthusiast from South India
   <br>
   <br>
   🎓 I'm currently studying Computer Science in specialization with Blokchain Technology at Vellore Institute of Technology, Vellore
