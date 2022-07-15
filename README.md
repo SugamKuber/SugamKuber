@@ -17,16 +17,17 @@
 <p align="center">
   Hi🙋🏻‍♂️, I'm Sugam Kuber, A Computers and Tech Enthusiast from South India
   <br>
+  🎓 I'm currently studying Computer Science in specialization with Blockchain Technology at Vellore Institute of Technology, Vellore
   <br>
-  🎓 I'm currently studying Computer Science in specialization with Blokchain Technology at Vellore Institute of Technology, Vellore
+   👨🏻‍💻 I'm a Devloper not a employee
   <br>
-   👨🏻‍💻 Web dev is not a Job, Its an Art
+  💻 I love making stuffs on web and anything about it
   <br>
-  💻 I love making stuffs and anything about it
-  <br>
-  📚 I’m currently learning the new Tools and Tech used for web3.0 dev
+  📚 I’m currently learning the new Tools and Tech used for web3.0 dev 
   <br>
   📫reach me at <a href="mailto: sugam.bkuber2021@vitstudent.ac.in">sugam.bkuber2021@vitstudent.ac.in</a>
+  <br> 
+   Working in IET ( Blockchain ) , vTrednz (MERN stack) as core comitte member and traines in CodeChef
 </p>
 
 <hr>
