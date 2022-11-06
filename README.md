@@ -27,7 +27,7 @@
   <br>
   📫reach me at <a href="mailto: sugam.bkuber2021@vitstudent.ac.in">sugam.bkuber2021@vitstudent.ac.in</a>
   <br> 
-   Working in IET ( Blockchain ) , vTrednz (MERN stack) as core comitte member and trainees in CodeChef
+   Working in IET, VITrednz and CodeChef
 </p>
 
 <hr>
