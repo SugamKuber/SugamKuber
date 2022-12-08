@@ -17,17 +17,19 @@
 <p align="center">
   Hi🙋🏻‍♂️, I'm Sugam Kuber, A Computers and Tech Enthusiast from South India
   <br>
-  🎓 I'm currently studying Computer Science in specialization with Blockchain Technology at Vellore Institute of Technology, Vellore
+  🎓 I'm currently studying Computer Science at Vellore Institute of Technology, Vellore
   <br>
-   👨🏻‍💻 I'm a Devloper not a employee
+   👨🏻‍💻 I'm a Web Dev Intern at Redgates
   <br>
-  💻 I love making stuffs on web and anything about it
+   Member of CodeChef, IET and VItrendz
   <br>
-  📚 I’m currently learning the new Tools and Tech used for web3.0 dev 
+  💻 I love making stuffs on web/web3 and anything about it
+  <br>
+  📚 I’m currently learning the new Tools and Tech used for web3.0 dev
   <br>
   📫reach me at <a href="mailto: sugam.bkuber2021@vitstudent.ac.in">sugam.bkuber2021@vitstudent.ac.in</a>
   <br> 
-   Working in IET, VITrednz and CodeChef
+  check out <a href="https://sugamkuber.me">sugamkuber.me</a>
 </p>
 
 <hr>
@@ -79,17 +81,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SugamKuber/web3-basic-login-page" title="web3 login page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=web3-basic-login-page&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/SugamKuber/DApp" title="basic DApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=DApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/SugamKuber/github" title="github backend clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=github&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/SugamKuber/DApp" title="basic DApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=DApp&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-    <a align="left" href="https://github.com/SugamKuber/static-html-page" title="basic html page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=static-html-page&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/SugamKuber/SOL_DAPP" title="Solana DApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=SOL_DAPP&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/SugamKuber/netflix-MERN" title="Netflix clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=netflix-MERN&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/SugamKuber/hash-visualization" title="hash visualization"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=hash-visualization&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SugamKuber/my-portfolioo" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=my-portfolioo&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/SugamKuber/SugamKuber" title="readme source code"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=SugamKuber&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/SugamKuber/Shopii" title="ECommerce DApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=Shopii&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/SugamKuber/bnpl" title="Solpay"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamKuber&repo=bnplr&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
