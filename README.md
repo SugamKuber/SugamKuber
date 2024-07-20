@@ -8,28 +8,28 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/sugamkuber-78426/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/sugamkuber/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/sugam7842692" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code></code>
   <code><a href="https://www.instagram.com/vill_arrica/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi🙋🏻‍♂️, I'm Sugam Kuber, A Computers and Tech Enthusiast from South India
+  Hi🙋🏻‍♂️, I'm Sugam Kuber, A Computers and Tech Enthusiast from Bengaluru
   <br>
   🎓 I'm currently studying Computer Science at Vellore Institute of Technology, Vellore
   <br>
-   👨🏻‍💻 I'm a Web Dev Intern at Redgates
+   👨🏻‍💻 I do web2, web3, devops & security
   <br>
-   Member of CodeChef, IET and VItrendz
+   👨🏻‍💻 Worked as Intern\part time in several compaines & 
   <br>
-  💻 I love making stuffs on web/web3 and anything about it
+  💻 Completed several freelancing project
   <br>
-  📚 I’m currently learning the new Tools and Tech used for web3.0 dev
+  📚 I’m currently learning security
   <br>
-  📫reach me at <a href="mailto: sugam.bkuber2021@vitstudent.ac.in">sugam.bkuber2021@vitstudent.ac.in</a>
+  📫reach me at <a href="mailto: sugamkuber@gmail.com">sugamkuber@gmail.com</a>
   <br> 
-  check out <a href="https://sugamkuber.me">sugamkuber.me</a>
+  check out <a href="https://portfolio-sugamkuber.vercel.app">sugamkuber.me</a>
 </p>
 
 <hr>
