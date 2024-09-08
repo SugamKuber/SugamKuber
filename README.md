@@ -23,13 +23,13 @@
   <br>
    👨🏻‍💻 Worked as Intern\part time in several compaines & 
   <br>
-  💻 Completed several freelancing project
+  💻 Completed 8 freelancing project
   <br>
   📚 I’m currently learning security
   <br>
   📫reach me at <a href="mailto: sugamkuber@gmail.com">sugamkuber@gmail.com</a>
   <br> 
-  check out <a href="https://portfolio-sugamkuber.vercel.app">sugamkuber.me</a>
+  check out <a href="https://sugam.cloud">sugam.cloud</a>
 </p>
 
 <hr>
